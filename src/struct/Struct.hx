@@ -1,0 +1,5 @@
+package test;
+
+interface Struct {
+
+}
